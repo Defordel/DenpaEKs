@@ -22,7 +22,7 @@ DenpaEx is a Denpa Engine Fork made by justAMZ. It adds a small amount of extra 
 
 ## DenpaEx Plus Team
 
-<img width="720" height="720" alt="defordel" src="https://github.com/user-attachments/assets/5eea3196-89a8-4adc-bc32-5cd1238073da" />
+<img width="150" height="150" alt="defordel" src="https://github.com/user-attachments/assets/5eea3196-89a8-4adc-bc32-5cd1238073da" />
 
 Defordel - Added 26k support
 
