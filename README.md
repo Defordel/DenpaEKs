@@ -8,7 +8,7 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=acc0untz0138/DenpaEx&type=Timeline)](https://star-history.com/#acc0untz0138/DenpaEx&Timeline)
 
-# Friday Night Funkin': DenpaEx Plus
+# Friday Night Funkin': DenpaEKs
 
 What if DenpaEx had 26k support?
 
@@ -20,7 +20,7 @@ I WOULD LIKE TO THANK AND CREDIT EVERYONE IN THE FNF COMMUNITY THAT HAS HELPED A
 
 DenpaEx is a Denpa Engine Fork made by justAMZ. It adds a small amount of extra features on top of normal Denpa Engine, created by the likes of Toadette8394, YanniZ06, jorge, MemeHoovy, Ziad, and much much more. Being intended to enhance the user experience, improve game performance, and increase the capabilities and efficiency of mod making, Denpa Engine is the most feature ready FNF engine to date. With features ranging from HScript and Lua scripting, to fully fitted editors, the engine is ready to go right out of the box.
 
-## DenpaEx Plus Team
+## DenpaEKs Plus Team
 
 <img width="150" height="150" alt="defordel" src="https://github.com/user-attachments/assets/5eea3196-89a8-4adc-bc32-5cd1238073da" />
 
